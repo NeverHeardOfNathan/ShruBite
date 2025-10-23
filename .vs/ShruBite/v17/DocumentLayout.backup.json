@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\ShruBite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|C:\\Users\\natha\\ShruBite\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|C:\\Users\\natha\\ShruBite\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|C:\\Users\\natha\\ShruBite\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|c:\\users\\natha\\shrubite\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|c:\\users\\natha\\shrubite\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|C:\\Users\\natha\\ShruBite\\assets\\fireratepowerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\fireratepowerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|C:\\Users\\natha\\ShruBite\\assets\\healthpowerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\healthpowerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|C:\\Users\\natha\\ShruBite\\assets\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C2B6E-8ABA-1FF0-0273-BFC1C1DEEB6F}|Assembly-CSharp.csproj|solutionrelative:assets\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:10:46.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\AudioManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:44:43.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:41:07.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FireRatePowerUp.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\FireRatePowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\FireRatePowerUp.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\FireRatePowerUp.cs",
+              "RelativeToolTip": "Assets\\FireRatePowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:39:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthPowerUp.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\HealthPowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthPowerUp.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\HealthPowerUp.cs",
+              "RelativeToolTip": "Assets\\HealthPowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:36:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Zombie.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Zombie.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:22:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:16:08.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\ShruBite\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\natha\\ShruBite\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowJsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:13:06.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
